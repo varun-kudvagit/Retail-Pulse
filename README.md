@@ -1,4 +1,4 @@
-
+# Retail-Pulse: Customer Segmentation and Product Recommendation System
 Retail-Pulse is a customer segmentation and product recommendation system designed to analyze consumer behavior, segment customers, and provide personalized product recommendations. The system utilizes KMeans clustering for customer segmentation, cosine similarity for recommending products, and TextBlob for generating synthetic reviews with sentiment analysis.
 
 📌 Features:
